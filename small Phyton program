@@ -1,9 +1,9 @@
-def multiplication_or_sum(x, y):
-    product = x * y
+def multiplication_or_sum(a, b):
+    product = a * b
     if product <= 1000:
         return product
     else:
-        return x + y
+        return a + b
 
 number1 = 50
 number2 = 60
