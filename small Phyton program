@@ -1,13 +1,13 @@
-def multiplication_or_sum(num1, num2):
-    product = num1 * num2
+def multiplication_or_sum(x, y):
+    product = x * y
     if product <= 1000:
         return product
     else:
-        return num1 + num2
+        return x + y
 
-number1 = 20
-number2 = 30
+number1 = 50
+number2 = 60
 
 print("\n")
-result = multiplication_or_sum(number1, number2)
-print("The result is", result)
+response = multiplication_or_sum(number1, number2)
+print("The response is", response)
