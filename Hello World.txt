@@ -1,2 +1,6 @@
 Nothing to check
+<<<<<<< HEAD
 1. New commit to test SourceTree 
+=======
+Hello World is not enough
+>>>>>>> secondary
