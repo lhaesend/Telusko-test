@@ -9,5 +9,5 @@ number1 = 50
 number2 = 60
 
 print("\n")
-response = multiplication_or_sum(number1, number2)
-print("The response is", response)
+resulte = multiplication_or_sum(number1, number2)
+print("The response is", result)
