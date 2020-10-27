@@ -9,5 +9,5 @@ number1 = 50
 number2 = 60
 
 print("\n")
-resulte = multiplication_or_sum(number1, number2)
+result = multiplication_or_sum(number1, number2)
 print("The response is", result)
